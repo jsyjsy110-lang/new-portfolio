@@ -43,9 +43,13 @@ export class AboutScene {
                          <div class="cover-photo"></div>
                          <div class="profile-info">
                              <div class="profile-avatar"></div>
-                             <h2>J. Blue</h2>
-                             <p class="role-tag">UI/UX Engineer</p>
-                             <p class="bio-short">Creating clarity from chaos. Focused on clean, accessible, and performant web interfaces.</p>
+                             <h2>JSY</h2>
+                             <p class="role-tag">Creative Developer & Designer</p>
+                             <p class="bio-short">
+                                 "디지털 경험에 감성을 불어넣습니다."<br>
+                                 사용자의 시선을 사로잡는 인터랙션과 직관적인 UI를 설계하며,<br>
+                                 기술과 예술의 경계를 허무는 웹 경험을 만듭니다.
+                             </p>
                          </div>
                      </div>
 
